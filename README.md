@@ -1,2 +1,2 @@
 # discourse-wider
-modify programmersforum-reborn / discourse-wide-posts
+modify on programmersforum-reborn / discourse-wide-posts
