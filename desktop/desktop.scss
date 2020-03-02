@@ -1,4 +1,11 @@
-
+@media screen and (min-width:1400px){
+    .wrap{max-width:1200px;}
+    .timeline-container { margin-left: 1100px;}
+}
+@media screen and (min-width:1600px){
+    .wrap{max-width:1400px;}
+    .timeline-container { margin-left: 1100px;}
+}
 
 @media screen and (min-width: $min_screen_width) {
     .topic-post:not(.d-toc-post) .topic-body {
